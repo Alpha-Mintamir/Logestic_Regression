@@ -1,4 +1,4 @@
-# Logistic Regression Project
+# Breast cancer prediction
 
 This project focuses on performing logistic regression analysis using Python for data exploration, visualization, and machine learning tasks. The project is structured with multiple components, including Jupyter Notebooks for interactive analysis, Python scripts for reusable functions, and organized directories for data storage and logging.
 
